@@ -1,0 +1,11 @@
+openai
+langchain
+langchain-community
+tiktoken
+gitpython
+python-dotenv 
+
+requests
+tqdm
+langchain
+json5

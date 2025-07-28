@@ -1,0 +1,1437 @@
+[
+  {
+    "summary": "This code chunk includes only valid JSON with no markdown, backticks, or explanations",
+    "keywords": [
+      "valid JSON",
+      "markdown",
+      "backticks"
+    ]
+  },
+  {
+    "summary": "The code block is a simple example of object-oriented programming in Python.",
+    "keywords": [
+      "Python",
+      "object-oriented programming"
+    ]
+  },
+  {
+    "summary": "A chat between a curious user and an artificial intelligence assistant.",
+    "keywords": [
+      "assistant",
+      "curious",
+      "user",
+      "artificial intelligence"
+    ]
+  },
+  {
+    "summary": "Download a file",
+    "keywords": [
+      "file download",
+      "python"
+    ]
+  },
+  {
+    "summary": "Try to load the mavenWrapperProperties file",
+    "keywords": [
+      "java",
+      "maven",
+      "properties"
+    ]
+  },
+  {
+    "summary": "Code to download a file from a URL",
+    "keywords": [
+      "downloadFileFromURL",
+      "sysout"
+    ]
+  },
+  {
+    "summary": "The code is a private static method that downloads a file from a given URL and saves it to the specified destination."
+  },
+  {
+    "summary": "This code establishes a secure connection between the client and server using an encrypted channel to transmit data.",
+    "keywords": [
+      "encryption",
+      "secure connection"
+    ]
+  },
+  {
+    "type": "code",
+    "text": "return (\"\\n`.join(['This is a test', 'this is not']));"
+  },
+  {
+    "summary": "This code chunk is a Spring Framework application that uses Spring Boot to create a new project.",
+    "keywords": [
+      "Spring Framework",
+      "SakilaProjectApplication.class",
+      "args"
+    ]
+  },
+  {
+    "summary": "This code snippet uses the com.sparta.engineering72.sakilaproject.services.ActorService to access and call methods on an Actor instance, which is then used to retrieve a Film object from the com.springframework.services.FilmService. The retrieved Film object is then printed with the help of com.springframework.web.bind.annotation.GetMapping.",
+    "keywords": [
+      "Actor",
+      "ActorService",
+      "com.springframework.services.ActorService",
+      "com.springframework.services.FilmService",
+      "getMapping"
+    ]
+  },
+  {
+    "summary": "This code imports the Java library for using list data type and creates an instance of it.",
+    "keywords": [
+      "Java",
+      "list"
+    ]
+  },
+  {
+    "summary": "This code chunk gets all actors from the actor service and returns them in a list if the first name or last name is set to 'ALL ACTORS'",
+    "keywords": [
+      "actor",
+      "service",
+      "list"
+    ]
+  },
+  {
+    "summary": "The code adds the 'actors' attribute to modelMap and the 'actorService' object as a reference.",
+    "keywords": [
+      "code",
+      "addAttribute",
+      "modelMap",
+      "actors",
+      "allActors"
+    ]
+  },
+  {
+    "summary": "A code chunk to get the full name of an actor using their ID",
+    "keywords": [
+      "actorID",
+      "firstname",
+      "lastname"
+    ]
+  },
+  {
+    "summary": "The code chunk contains a package that uses Spring Framework, imports various classes and methods, demonstrates the use of annotations for autowired imports, and creates a model map for view rendering.",
+    "keywords": [
+      "Spring Framework",
+      "autowired imports",
+      "model maps"
+    ]
+  },
+  {
+    "summary": "This code chunk defines a function that uses the @GetMapping decorator to map a route to the getCategories method, which returns all categories using a category service. The result is added to the modelMap as an attribute called 'allCategories'.",
+    "keywords": [
+      "mapping",
+      "route",
+      "getCategories",
+      "modelMap"
+    ]
+  },
+  {
+    "summary": "This code chunk contains a GET request that retrieves the details of a category with an ID provided by the user.",
+    "keywords": [
+      "GET",
+      "category",
+      "details",
+      "filter",
+      "categories"
+    ]
+  },
+  {
+    "summary": "This code chunk is not valid JSON.",
+    "keywords": []
+  },
+  {
+    "summary": "The code chunk is for a class called Server which uses SocketServer and WebSocket in Java.",
+    "keywords": [
+      "Java",
+      "Sakila Project Controller"
+    ]
+  },
+  {
+    "summary": "The code chunk imports necessary classes and services to create a class for customers, films, customer service, film service, inventory service, and rental service.",
+    "keywords": [
+      "customers",
+      "films",
+      "service",
+      "inventory",
+      "rental"
+    ]
+  },
+  {
+    "summary": "The code uses the spring framework to create a controller, and annotate it with various annotations such as autowired and model map.",
+    "keywords": [
+      "Spring Framework",
+      "Controller",
+      "Model"
+    ]
+  },
+  {
+    "summary": "The code creates a new Customer object, sets the name and age attributes, and prints out the customer's information.",
+    "keywords": [
+      "Customer",
+      "object creation",
+      "name and age attributes",
+      "printing"
+    ]
+  },
+  {
+    "summary": "This code declares a class called CustomerController that takes in four other services as input parameters.",
+    "keywords": [
+      "JavaScript",
+      "JVM"
+    ]
+  },
+  {
+    "summary": "This code block is a GET request for the customer's current orders from the order service.",
+    "keywords": [
+      "customer",
+      "orders",
+      "order service"
+    ]
+  },
+  {
+    "summary": "This code chunk retrieves a rental from the inventory, creates an order for that rental using the provided customer information and film ID, adds the order to the ordersList attribute of the modelMap object, and returns the customer's name as a keyword. This is a valid JSON format.",
+    "keywords": [
+      "rental",
+      "inventoryId",
+      "filmService",
+      "Inventory",
+      "customer",
+      "Order",
+      "ordersList",
+      "modelMap"
+    ]
+  },
+  {
+    "summary": "The function retrieves all customers from the database based on user-provided filters",
+    "keywords": [
+      "customer",
+      "database",
+      "filters"
+    ]
+  },
+  {
+    "summary": "Get all customers from a database",
+    "keywords": []
+  },
+  {
+    "summary": "The code chunk adds the 'customers' attribute to modelMap with its value being the 'customers' list, and also adds the 'allCustomers' attribute to modelMap with its value being the result of calling the getAllCustomers method on customerService."
+  },
+  {
+    "keywords": [
+      "customer details"
+    ],
+    "summary": ""
+  },
+  {
+    "summary": "This code implements a RESTful API for controlling the Sakila Project's engineering tasks.",
+    "keywords": [
+      "Sakila Project",
+      "Engineering tasks"
+    ]
+  },
+  {
+    "summary": "This code imports four different classes, namely Customer, Film, Inventory, and Rental, from the SpartaProject library.",
+    "keywords": [
+      "customer",
+      "film",
+      "inventory",
+      "rental"
+    ]
+  },
+  {
+    "summary": "This code implements a rental service that allows users to rent items and returns them at the end of the term.",
+    "keywords": [
+      "rental service",
+      "items",
+      "term"
+    ]
+  },
+  {
+    "summary": "A code chunk that imports Java libraries, sets a principal ID, creates an object, and creates a HashMap.",
+    "keywords": [
+      "Java",
+      "Principal ID",
+      "Object",
+      "HashMap"
+    ]
+  },
+  {
+    "summary": "A web application that allows customers to rent films online and for a limited time.",
+    "keywords": [
+      "FilmController",
+      "web-based film rental system"
+    ]
+  },
+  {
+    "keywords": [
+      "Code",
+      "JSON"
+    ],
+    "summary": "The code defines a FilmController class with constructor parameters for a FilmService, InventoryService, RentalService, and CustomerService. It initializes these services in the class."
+  },
+  {
+    "summary": "The code creates a list of all films or filters the results based on the title using filmService.getFilmsByTitle(title) method.",
+    "keywords": [
+      "films",
+      "title"
+    ]
+  },
+  {
+    "summary": "The code adds three attributes to the modelMap: 'films', 'availableFilms', and 'allFilms'.",
+    "keywords": [
+      "modelMap",
+      "attributes",
+      "films",
+      "filmService"
+    ]
+  },
+  {
+    "summary": "This code chunk creates a method to get the details of a film based on its ID using an external library.",
+    "keywords": [
+      "external library",
+      "get film details"
+    ]
+  },
+  {
+    "summary": "The code chunk is a GET mapping function that retrieves film details from the database based on a given title or all films if no filter is specified,",
+    "keywords": [
+      "GET mapping",
+      "database retrieval"
+    ]
+  },
+  {
+    "keywords": [
+      "JavaScript",
+      "JSON",
+      "request mapping",
+      "ModelAndView",
+      "filmService",
+      "deleteProduct",
+      "id"
+    ],
+    "summary": "This code allows editing of a product's details and deletion of the same. The request mapping maps these functionalities to the model.view endpoint."
+  },
+  {
+    "keywords": [
+      "film",
+      "find",
+      "ID",
+      "id"
+    ],
+    "summary": "This code defines a method called 'findFilmByID' that searches for a film based on its ID. The method returns the film object using the 'getFilmByID' method from the 'filmService' class."
+  },
+  {
+    "summary": "This code creates an instance of Spring MVC framework and defines request mapping methods for home, login, and account pages.",
+    "keywords": [
+      "Spring MVC",
+      "request mapping",
+      "instantiated with"
+    ]
+  },
+  {
+    "Summary": "The code chunk contains information about a system.",
+    "Keywords": [
+      "system",
+      "information"
+    ]
+  },
+  {
+    "summary": "This code defines a simple Java program that prints 'Hello World' to the console.",
+    "keywords": [
+      "Java",
+      "programming",
+      "console"
+    ]
+  },
+  {
+    "summary": "The code is for a Java program that simulates a chatbot interaction with users to answer their questions.",
+    "keywords": [
+      "Java",
+      "chatbot",
+      "interaction",
+      "question",
+      "answers"
+    ]
+  },
+  {
+    "summary": "This is the summary of the code chunk in JSON format.",
+    "keywords": [
+      "Java",
+      "Javascript",
+      "HTTP"
+    ]
+  },
+  {
+    "summary": "This code creates an instance of the StaffController class with three inherited properties, staffService, customerService and inventoryService",
+    "keywords": [
+      "StaffController",
+      "staffService",
+      "customerService",
+      "inventoryService"
+    ]
+  },
+  {
+    "summary": "This code chunk updates a model map with user data, including their username and number of customers and inventory items,",
+    "keywords": [
+      "user",
+      "data",
+      "model map"
+    ]
+  },
+  {
+    "summary": "The code chunk adds an attribute called 'inventory' to a model and returns the '/owner/owner' route.",
+    "keywords": [
+      "java, coding, data structures"
+    ]
+  },
+  {
+    "summary": "A code chunk to create a basic class called '@Basic' with two instance variables, first_name and last_name.",
+    "keywords": [
+      "basic",
+      "class",
+      "instance variables"
+    ]
+  },
+  {
+    "summary": "This code defines a basic class with a method for getting the last update timestamp and setting it.",
+    "keywords": [
+      "basic",
+      "getLastUpdate",
+      "setLastUpdate"
+    ]
+  },
+  {
+    "summary": "The code defines a Person class with fields like actorId, firstName, lastName and lastUpdate. The hashCode() method returns an integer that represents this person's attributes.",
+    "keywords": [
+      "Person",
+      "hashCode"
+    ]
+  },
+  {
+    "summary": "The code snippet creates a basic class with two methods that return and set the 'name' and 'last_update' attributes respectively.",
+    "keywords": [
+      "class",
+      "methods",
+      "attributes"
+    ]
+  },
+  {
+    "summary": "The code is an example of a custom implementation of the equals method in Java",
+    "keywords": [
+      "Java",
+      "Object-oriented programming",
+      "Custom implementation"
+    ]
+  },
+  {
+    "summary": "The code chunk defines two columns in a table with the customer's ID and name.",
+    "keywords": [
+      "customer_id",
+      "first_name"
+    ]
+  },
+  {
+    "summary": "This is a code chunk for a user interface system.",
+    "keywords": [
+      "user interface",
+      "code"
+    ]
+  },
+  {
+    "summary": "The code chunk is defining a class and method with no comments or explanations.",
+    "keywords": [
+      "code",
+      "java"
+    ]
+  },
+  {
+    "summary": "This method sets the 'lastUpdate' property of an object to a given timestamp.",
+    "keywords": [
+      "setLastUpdate",
+      "timestamp",
+      "object"
+    ]
+  },
+  {
+    "summary": "The code checks if the objects createDate and lastUpdate in a Customer object match with the values in the createDate and lastUpdate variables",
+    "keywords": [
+      "Objects.equals",
+      "createDate",
+      "customer.createDate",
+      "Objects.equals",
+      "lastUpdate",
+      "customer.lastUpdate"
+    ]
+  },
+  {
+    "summary": "The code chunk defines a Hashcode method that takes in customerId, firstName, lastName, email, active, createDate, and lastUpdate as parameters. It returns an integer hash value based on the parameters.",
+    "keywords": [
+      "HashCode",
+      "Customers"
+    ]
+  },
+  {
+    "summary": "This code imports the required modules, sets the time zone to 'America/Chicago', creates a new SQLiteDatabase object, loads the data from a file into the database, retrieves the latest transaction, calculates the total amount of money spent, and returns it as a BigDecimal.",
+    "keywords": [
+      "sparta-entities",
+      "springframework",
+      "date/time",
+      "sqlite",
+      "dataframe",
+      "money"
+    ]
+  },
+  {
+    "summary": "This code defines a basic class called 'Basic' with two methods, getReleaseYear and setReleaseYear. The first method returns the value of the release_year attribute, while the second method sets it to a new value. Similarly, the other two methods, getRentalDuration and setRentalDuration, return and set the rental_duration attribute. ",
+    "keywords": [
+      "basic class",
+      "release year",
+      "rental duration"
+    ]
+  },
+  {
+    "summary": "This code chunk defines two basic objects, a rental rate and a length, with their respective properties and methods.",
+    "keywords": [
+      "basic",
+      "property",
+      "method",
+      "object",
+      "JavaScript"
+    ]
+  },
+  {
+    "summary": "A Java code block that checks for equality between two objects of the same class.",
+    "keywords": [
+      "Java",
+      "equality"
+    ]
+  },
+  {
+    "summary": "This code is for an interface called 'Rent a Movie', that will help in finding a movie to rent.",
+    "keywords": [
+      "rental",
+      "movie",
+      "interface"
+    ]
+  },
+  {
+    "summary": "This code is a Java class that represents a film actor in the Sakila database.",
+    "keywords": [
+      "Java",
+      "Sakila",
+      "film_actor"
+    ]
+  },
+  {
+    "summary": "The given code sets and gets a property of an object.",
+    "keywords": [
+      "JavaScript",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "summary": "The equals method checks if two instances are the same object or not.",
+    "keywords": [
+      "equals",
+      "method",
+      "object"
+    ]
+  },
+  {
+    "summary": "The code defines a Column named 'film_id' with the name parameter as 'name', id parameter as '@Column(name)', and type parameter as 'public int getFilmId()'.",
+    "keywords": [
+      "column",
+      "name",
+      "@Id",
+      "public int",
+      "setFilmId",
+      "@Override"
+    ]
+  },
+  {
+    "summary": "A summary of the code chunk in JSON format.",
+    "keywords": [
+      "Java",
+      "persistence",
+      "JSON"
+    ]
+  },
+  {
+    "summary": "The code chunk defines a setter and getter for the filmId property in a class.",
+    "keywords": [
+      "filmId",
+      "category_id"
+    ]
+  },
+  {
+    "summary": "This code chunk sets the last update time for a FilmCategory object and implements the equals method to compare two objects based on their film ID, category ID, and last update time.",
+    "keywords": [
+      "setLastUpdate",
+      "equals"
+    ]
+  },
+  {
+    "summary": "The code chunk defines a hash code for the object.",
+    "keywords": [
+      "hash",
+      "objects",
+      "java"
+    ]
+  },
+  {
+    "summary": "This code defines a Column class with properties for name and id",
+    "keywords": [
+      "Column",
+      "name",
+      "id"
+    ]
+  },
+  {
+    "summary": "This is a code snippet for a FilmCategoryPK class.",
+    "keywords": [
+      "Java",
+      "Object-Oriented Programming",
+      "equals",
+      "hashCode"
+    ]
+  },
+  {
+    "summary": "This code chunk contains two basic methods, each with a column that takes an input and returns a value as output.",
+    "keywords": [
+      "basic",
+      "columns"
+    ]
+  },
+  {
+    "summary": "The code checks for object identity using the equals method and returns true if all the properties are equal.",
+    "keywords": [
+      "Objects",
+      "equals",
+      "method",
+      "return"
+    ]
+  },
+  {
+    "summary": "The given code chunk defines an Inventory class with fields for ID, FilmID and LastUpdateTime,",
+    "keywords": [
+      "invalid",
+      "markdown",
+      "backticks"
+    ]
+  },
+  {
+    "keywords": [
+      "film_id",
+      "set",
+      "get",
+      "setter",
+      "setter"
+    ],
+    "summary": "This code sets and gets the value of 'film_id' and set and getter methods for it. It also has a method to set and return Timestamp."
+  },
+  {
+    "summary": "This code defines an Inventory class that has two fields: inventoryId and lastUpdate.",
+    "keywords": [
+      "Inventory",
+      "equals",
+      "hashCode"
+    ]
+  },
+  {
+    "summary": "A class called Order with a constructor that accepts three parameters: customer, film, and rental."
+  },
+  {
+    "summary": "The code defines a class called 'Film' with methods for getting and setting the film property, as well as getting and setting the rental property.",
+    "keywords": [
+      "class",
+      "property",
+      "methods"
+    ]
+  },
+  {
+    "summary": "The code chunk defines a class called SetInventoryId that sets the inventoryId attribute of an object and a class called GetCustomerId that returns the customerId attribute of an object. It also contains some basic properties like public int customerId, Timestamp returnDate",
+    "keywords": [
+      "SetInventoryId",
+      "customer_id",
+      "getCustomerId",
+      "return_date"
+    ]
+  },
+  {
+    "summary": "The code checks if two rentals are equal based on their rental ID, inventory ID, customer ID, staff ID, and rental date.",
+    "keywords": [
+      "Rental",
+      "equals",
+      "JSON",
+      "code chunk"
+    ]
+  },
+  {
+    "summary": "The given code chunk is a method signature of an object class called 'Rental'.",
+    "keywords": [
+      "rental",
+      "id",
+      "inventory",
+      "customer",
+      "staff",
+      "rentalDate",
+      "returnDate",
+      "lastUpdate"
+    ]
+  },
+  {
+    "summary": "This code chunk demonstrates how to use a SQL database in Java.",
+    "keywords": [
+      "SQL",
+      "Java"
+    ]
+  },
+  {
+    "summary": "The code chunk defines a setActive method that changes the value of the active attribute from byte to boolean. It also defines three other methods getUsername, setUsername and getPassword, which return or change the values of username, password and password, respectively. All these methods are decorated with @Basic, which means they have no arguments and always return a string.",
+    "keywords": [
+      "byte",
+      "Boolean",
+      "username",
+      "password"
+    ]
+  },
+  {
+    "summary": "The code chunk defines a basic object that has one property, 'name' with the default value of an empty string and sets it to the current time using the Timestamp class.",
+    "keywords": [
+      "Basic",
+      "Column",
+      "setLastUpdate",
+      "getLastUpdate",
+      "Timestamp"
+    ]
+  },
+  {
+    "summary": "The code snippet checks if two objects of the Staff class have the same id, are active, first name, last name, and picture arrays.",
+    "keywords": [
+      "Staff",
+      "equals",
+      "id",
+      "active",
+      "firstName",
+      "lastName",
+      "picture"
+    ]
+  },
+  {
+    "summary": "A method to compute a unique integer hashcode for this employee object using their staff ID, first and last names, email, active status, username, password, and picture.",
+    "keywords": [
+      "hashCode",
+      "employee"
+    ]
+  },
+  {
+    "summary": "The ActorRepository interface extends the JpaRepository class and provides methods to retrieve actors based on their name, first name, or last name.",
+    "keywords": [
+      "java",
+      "actor",
+      "Java programming"
+    ]
+  },
+  {
+    "summary": "This code creates a new class named `package`, with two methods `__init__` and `getClassName`.",
+    "keywords": [
+      "Java",
+      "Spring"
+    ]
+  },
+  {
+    "summary": "This code defines a custom query interface that extends the JpaRepository class.",
+    "keywords": [
+      "customer_repository"
+    ]
+  },
+  {
+    "summary": "A query that returns all customers with a given first name or last name.",
+    "keywords": [
+      "customer names"
+    ]
+  },
+  {
+    "summary": "The code chunk includes three queries - getCustomersByFullName, getCustomerById, and getCustomerEmail. The first query returns a list of customers with the given full name, while the second query returns a customer based on their ID. The third query returns the count of all customers in the database."
+  },
+  {
+    "summary": "The code package imports classes and entities from a repository using the jpa API, including Actor, Customer, Film, and FilmActor.",
+    "keywords": [
+      "JPA",
+      "actor",
+      "film"
+    ]
+  },
+  {
+    "summary": "A query interface for a FilmRepository class that extends JpaRepository and includes methods to return the count of available films (invalid IDs are excluded) and a list of all available films.",
+    "keywords": [
+      "FilmRepository",
+      "JPA",
+      "JavaScript query interface"
+    ]
+  },
+  {
+    "summary": "This code selects all films and their associated categories from the 'film' table, where the category_id matches the specified 'categoryId'. The result is a list of films with their corresponding categories.",
+    "keywords": [
+      "select",
+      "films",
+      "categories",
+      "database",
+      "query"
+    ]
+  },
+  {
+    "keywords": [
+      "SQL",
+      "JSON",
+      "code chunk"
+    ],
+    "summary": "The code chunk queries a database for all films an actor has worked on, and then finds the film with a given title or by a given ID. It returns the results in JSON format."
+  },
+  {
+    "summary": "This code chunk imports a JPA repository that contains Inventory and Rental entities, uses the Query module to modify it, and creates a new entity for each rental record in the repository.",
+    "keywords": [
+      "JPA",
+      "repository",
+      "Inventory",
+      "Rental"
+    ]
+  },
+  {
+    "summary": "This code defines an InventoryRepository interface with a query method that retrieves inventories and their rental information based on the inventory ID.",
+    "keywords": [
+      "InventoryRepository",
+      "query",
+      "select",
+      "join",
+      "inner join",
+      "value",
+      "nativeQuery"
+    ]
+  },
+  {
+    "summary": "This code defines a method called deleteInventoryByInventoryId that deletes an inventory item from the inventory table based on its ID. It also has two other methods - getInventoryCount - which returns the number of inventory items in the database.",
+    "keywords": [
+      "DELETE",
+      "SELECT",
+      "COUNT"
+    ]
+  },
+  {
+    "summary": "This code creates a new rental record in the given JPA repository.",
+    "keywords": [
+      "JPA",
+      "Rental"
+    ]
+  },
+  {
+    "summary": "This code chunk is a generic interface for a rental repository that allows users to retrieve rentals by their ID or customer ID. It also includes two query methods that use JDBC.",
+    "keywords": [
+      "java",
+      "repository",
+      "RentalRepository",
+      "JPA",
+      "Query"
+    ]
+  },
+  {
+    "summary": "This code chunk imports a custom class called Film with specific fields such as title and year. It also imports two other classes called Customer and Staff which can be used to perform further analysis or operations on the data."
+  },
+  {
+    "summary": "This code is about implementing access control using Java.",
+    "keywords": [
+      "java",
+      "access control"
+    ]
+  },
+  {
+    "summary": "This is a code snippet that defines an access denied handler in Java",
+    "keywords": [
+      "access denied handler"
+    ]
+  },
+  {
+    "summary": "The code imports necessary packages and sets up a Spring application with various components like configuration, registry, view controller, and web mvc configurator."
+  },
+  {
+    "summary": "This code is a security project for web applications.",
+    "keywords": [
+      "com.sparta",
+      "engineering72",
+      "sakilaproject",
+      "securingweb"
+    ]
+  },
+  {
+    "summary": "The code is written in Java and uses the Servlet API to handle HTTP requests and responses."
+  },
+  {
+    "keywords": [
+      "conditional statements",
+      "if statement",
+      "else if statement"
+    ],
+    "summary": "The code chunk checks the value of a variable named authority which can be 'ROLE_ADMIN'. If it is equal to 'ROLE_ADMIN', then it calls a method called sendRedirect that redirects the request to '/owner' with a status code of 302. Otherwise, it returns the original response."
+  },
+  {
+    "summary": "This is a package used for web security.",
+    "keywords": [
+      "web security",
+      "com.sparta"
+    ]
+  },
+  {
+    "summary": "Code for retrieving customers and staff from repositories",
+    "keywords": [
+      "customers",
+      "staff",
+      "repositories"
+    ]
+  },
+  {
+    "summary": "This code imports the UserDetailsService class from Spring Framework, uses it to get a user's name and email address, and then validates that email is in the correct format.",
+    "keywords": [
+      "UserDetails",
+      "Name",
+      "Email",
+      "Validating Email"
+    ]
+  },
+  {
+    "summary": "Code chunk is about a UserDetailsServiceImpl with two autowired repositories and a method called loadUserByUsername that retrieves a user by their username",
+    "keywords": [
+      "autowired",
+      "CustomerRepository",
+      "StaffRepository"
+    ]
+  },
+  {
+    "keywords": [
+      "customer",
+      "staff"
+    ],
+    "summary": "The code block sets the password for a user if they have staff, or for a customer otherwise."
+  },
+  {
+    "summary": "This code package is for securing web applications.",
+    "keywords": [
+      "web application",
+      "security"
+    ]
+  },
+  {
+    "keywords": [
+      "Java, Python, SQL, AI, Chatbots",
+      "JAVA",
+      "PYTHON",
+      "SQL",
+      "AI",
+      "CHATBOTS"
+    ],
+    "summary": "The code is a combination of Java and Python libraries used to create a chatbot. The purpose of the chatbot is to provide customer service."
+  },
+  {
+    "summary": "The code imports the PasswordEncoder class from Spring Framework security and uses it to generate a password for encryption.",
+    "keywords": [
+      "Spring Framework",
+      "Password Encryption"
+    ]
+  },
+  {
+    "summary": "Web security configuration class",
+    "keywords": [
+      "web",
+      "security",
+      "configuration"
+    ]
+  },
+  {
+    "summary": "This code defines which URL paths should be secured and which should not, and includes various matcher requests.",
+    "keywords": [
+      "URL paths",
+      "URL secure",
+      "matcher requests"
+    ]
+  },
+  {
+    "summary": "This code allows a user to access multiple pages without requiring authentication, and handles any exceptions or page-access denials.",
+    "keywords": [
+      "JavaScript",
+      "JSON",
+      "web",
+      "CSS",
+      "films",
+      "actors",
+      "categories",
+      "authenticated"
+    ]
+  },
+  {
+    "summary": "The code chunk allows users to login and log out, and displays error pages if access is denied.",
+    "keywords": [
+      "Login",
+      "Logout",
+      "Error Pages"
+    ]
+  },
+  {
+    "keywords": [
+      "Java",
+      "bean"
+    ]
+  },
+  {
+    "summary": "This code defines a new service called ActorService that extends the Spring Framework's Service class and provides access to an Actor repository",
+    "keywords": [
+      "Actor",
+      "service"
+    ]
+  },
+  {
+    "keywords": [
+      "Actor",
+      "FindAll",
+      "getAllActors",
+      "getActorByID",
+      "getActorsByFullName"
+    ]
+  },
+  {
+    "summary": "The code chunk contains methods to search for actors based on first and last name, as well as a method to retrieve the full name of an actor from their ID.",
+    "keywords": [
+      "actor",
+      "repository",
+      "findActorsByFirstName",
+      "findActorsByLastName"
+    ]
+  },
+  {
+    "summary": "This is a summary of the code chunk in JSON format that contains only valid JSON",
+    "keywords": [
+      "JSON",
+      "valid JSON"
+    ]
+  },
+  {
+    "summary": "The code creates a list of categories and finds a specific category by its ID using the category repository.",
+    "keywords": [
+      "list",
+      "categories",
+      "find"
+    ]
+  },
+  {
+    "keywords": [
+      "Java",
+      "entities",
+      "services",
+      "java utility method"
+    ],
+    "summary": "The code is about a Java service called CustomerService that uses the spring framework's Stereotype pattern. The class includes two private static fields, customerRepository and instanceOfCustomerClass, which are used to get customers from the repository. If no instance of the customerclass is present in the repository, this method returns null. If an instance is found, it can be retrieved with instanceofService.getInstance(). This method uses a utility method called getAll() to retrieve all instances of the class. Finally, the method returns the first instance of the customers found or null if no instances are found."
+  },
+  {
+    "summary": "A summary of the code chunk.",
+    "keywords": [
+      "java",
+      "assistant"
+    ]
+  },
+  {
+    "summary": "The code defines three methods to retrieve customers by full name, ID, and email.",
+    "keywords": [
+      "customers",
+      "name",
+      "id",
+      "email"
+    ]
+  },
+  {
+    "summary": "Saves a customer to the repository and returns the number of customers",
+    "keywords": [
+      "repository",
+      "customer",
+      "save",
+      "count"
+    ]
+  },
+  {
+    "keywords": [
+      "filmRepository",
+      "getAllFilms",
+      "getFilmByID",
+      "getFilmsByTitle"
+    ],
+    "summary": "The code creates a new instance of the FilmService class with the film repository and has methods to retrieve films by ID or title."
+  },
+  {
+    "summary": "This is a code chunk that can be summarized into JSON format.",
+    "keywords": [
+      "JavaScript",
+      "summarize code, valid JSON"
+    ]
+  },
+  {
+    "keywords": [
+      "save",
+      "delete",
+      "film repository",
+      "id"
+    ],
+    "summary": "The code chunk defines two methods for a class called 'Film': the save method saves the film object to the film repository, and the deleteFilmById method deletes the film object with the given id from the repository. The repository is instantiated in the main function."
+  },
+  {
+    "summary": "This is a code chunk that imports com.sparta.engineering72.sakilaproject.entities.Inventory, import com.springframework.stereotype.Service, import org.springframework.transaction.annotation.Transactional, and javase.",
+    "keywords": [
+      "com",
+      "sparta",
+      "engineering72",
+      "sakilaproject",
+      "services"
+    ]
+  },
+  {
+    "summary": "The code implements a simple rental service that provides information about available rentals and allows users to search for and rent them.",
+    "keywords": [
+      "rental",
+      "service",
+      "Java",
+      "sparta"
+    ]
+  },
+  {
+    "summary": "This code creates a new RentalService that accesses the existing rentalRepository.",
+    "keywords": [
+      "Rental",
+      "customer",
+      "ids"
+    ]
+  },
+  {
+    "summary": "The code adds a rental to the inventory with a given inventoryId, customerId, and returnDate.",
+    "keywords": [
+      "Rental",
+      "Inventory",
+      "CustomerId",
+      "ReturnDate"
+    ]
+  },
+  {
+    "summary": "code chunk for rental repository",
+    "keywords": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "summary": "This code creates a list of all staff members and returns the staff member by their username.",
+    "keywords": [
+      "staff",
+      "list",
+      "staffByUsername"
+    ]
+  },
+  {
+    "summary": "The code chunk is for a Scala program that imports four packages and uses various entities to create actors, categories, customers, and films.",
+    "keywords": [
+      "Scala",
+      "package",
+      "import",
+      "entity"
+    ]
+  },
+  {
+    "summary": "This code imports the necessary modules and defines a method to analyze code for readability",
+    "keywords": [
+      "JavaScript",
+      "Sakila Project",
+      "services"
+    ]
+  },
+  {
+    "summary": "No summary found.",
+    "keywords": []
+  },
+  {
+    "summary": "A code chunk with JSON structure",
+    "keywords": []
+  },
+  {
+    "summary": "The code checks for an Actor with ID 10 in the repository",
+    "keywords": [
+      "test",
+      "check id",
+      "mockito annoations"
+    ]
+  },
+  {
+    "summary": "The code is testing if the method getActorByActorId returns an instance of Actor named Frank",
+    "keywords": [
+      "test",
+      "actor",
+      "first name"
+    ]
+  },
+  {
+    "summary": "This code is testing the functionality of the ActorByLastName method by creating an instance of the Actor class, setting its last name to 'Gomez', and then using the getActorByActorId method to retrieve the actor with that id. The expected result is a valid JSON object containing only the summary and keywords fields.",
+    "keywords": [
+      "actor",
+      "last name",
+      "id"
+    ]
+  },
+  {
+    "summary": "The code tests if the getActorById method returns an actor instance with the given id.",
+    "keywords": [
+      "actors",
+      "JavaScript",
+      "unit testing"
+    ]
+  },
+  {
+    "summary": "This code creates a new Timestamp object and sets its value to the current time in milliseconds. Then, it creates an Actor object with the first name 'Leo', the ID 3, the last name 'DiCaprio', and the current timestamp as the last update. After that, it calls the getActorByActorId method from the actorRepository class with the ID 3 as its argument. The method returns the created Actor object in this case.",
+    "keywords": [
+      "Actor",
+      "Name",
+      "ID",
+      "Last Name",
+      "Time",
+      "Update"
+    ]
+  },
+  {
+    "summary": "This test case verifies that a Film object can be created by setting the actor's id from an existing Actor object.",
+    "keywords": [
+      "Test",
+      "film by id"
+    ]
+  },
+  {
+    "summary": "This code creates a new Film object with the given description and sets its id to 2. It then queries the film repository for this film by its ID and returns it.",
+    "keywords": [
+      "film",
+      "description",
+      "id"
+    ]
+  },
+  {
+    "summary": "A test that ensures the getFilmById method returns a Film with a specific rating of 18 and id of 3.",
+    "keywords": [
+      "test film by rating"
+    ]
+  },
+  {
+    "summary": "The code sets a length and id for a Film object using setLength() and getFilmByFilmId() methods respectively.",
+    "keywords": [
+      "setLength",
+      "getFilmByFilmId"
+    ]
+  },
+  {
+    "summary": "A test for retrieving a film by its ID",
+    "keywords": [
+      "test",
+      "film",
+      "retrieve",
+      "ID"
+    ]
+  },
+  {
+    "summary": "An example code chunk that tests if a given film's information matches its ID.",
+    "keywords": [
+      "test",
+      "film",
+      "description",
+      "set",
+      "setFilmId"
+    ]
+  },
+  {
+    "summary": "This code creates a new Film object with the title 'Goodfellas', filmId of 5, specialFeatures as 'Special', replacementCost as 0.999, rentalRate as 0.888, and rentalDuration as 10.",
+    "keywords": [
+      "Film",
+      "Title",
+      "LastUpdate",
+      "FilmId",
+      "SpecialFeatures",
+      "ReplacementCost",
+      "RentalRate",
+      "RentalDuration",
+      "ReleaseYear"
+    ]
+  },
+  {
+    "summary": "This code tests a method in the repository that returns a Category object given its ID. It also checks if the returned object has a correct Category ID",
+    "keywords": [
+      "Category ID",
+      "Method"
+    ]
+  },
+  {
+    "keywords": [
+      "Python",
+      "JSON",
+      "testing"
+    ],
+    "summary": "The test customer by id is valid and returns the correct object"
+  },
+  {
+    "summary": "This code creates a new Customer object with email, customer id, create date and name properties set to specific values.",
+    "keywords": [
+      "Customer",
+      "Java"
+    ]
+  },
+  {
+    "summary": "This code chunk retrieves a customer from the database and validates their ID, email address, create date, first name, and last name.",
+    "keywords": [
+      "customer",
+      "retrieve",
+      "validate"
+    ]
+  },
+  {
+    "summary": "This is a summary of the code chunk in JSON format.",
+    "keywords": [
+      "Code",
+      "JSON"
+    ]
+  },
+  {
+    "summary": "A summary of the code chunk",
+    "keywords": [
+      "staff",
+      "email",
+      "id",
+      "first name",
+      "last name",
+      "last update",
+      "password",
+      "username"
+    ]
+  },
+  {
+    "keywords": [
+      "valid JSON",
+      "asserts",
+      "email",
+      "first_name",
+      "last_name",
+      "last_update",
+      "password",
+      "username"
+    ]
+  },
+  {
+    "summary": "This code snippet defines a test for the FilmController class",
+    "keywords": [
+      "Test",
+      "FilmController",
+      "ModelMap",
+      "Python"
+    ]
+  },
+  {
+    "summary": "This code creates a FilmController class that uses three services to manage movies - filmService, inventoryService, and rentalService. The modelMap is used as an intermediary to pass in information about the user's preferences.",
+    "keywords": [
+      "ModelMap",
+      "FilmController",
+      "filmService",
+      "inventoryService",
+      "rentalService",
+      "customerService"
+    ]
+  },
+  {
+    "summary": "The code is a unit test that checks if the getCategoryDetails method in CategoryController class returns the correct category name for an input model map and number of results.",
+    "keywords": [
+      "Unit Test",
+      "Categories",
+      "Model Map",
+      "Category Controller"
+    ]
+  },
+  {
+    "summary": "This code tests the getCategories method of a model map.",
+    "keywords": [
+      "ModelMap",
+      "CategoryController",
+      "getCategories"
+    ]
+  },
+  {
+    "summary": "The test checks the functionality of a CustomerController by verifying that it correctly retrieves all customers from a ModelMap.",
+    "keywords": [
+      "ModelMap",
+      "CustomerController",
+      "Customers"
+    ]
+  },
+  {
+    "summary": "The code defines a Test class that tests the CustomerController2() method.",
+    "keywords": [
+      "Test",
+      "class",
+      "CustomerController2"
+    ]
+  },
+  {
+    "summary": "The code creates a test class called 'testInventory' that tests the functionality of an Inventory object by setting its properties.",
+    "keywords": [
+      "Test",
+      "Inventory"
+    ]
+  },
+  {
+    "summary": "The code sets the inventory id to 10 and sets the last update timestamp to a specific date and time",
+    "keywords": [
+      "inventory",
+      "set",
+      "inventoryId",
+      "lastUpdate"
+    ]
+  },
+  {
+    "summary": "Printing the date in a readable format.",
+    "keywords": [
+      "Date formatting",
+      "JavaScript"
+    ]
+  },
+  {
+    "summary": "The code sets up a rental system with various components such as timestamps, inventories, customers, and staff.",
+    "keywords": [
+      "timestamp",
+      "inventory",
+      "customer",
+      "staff",
+      "rental"
+    ]
+  },
+  {
+    "summary": "code chunk is not valid JSON as it contains invalid characters",
+    "keywords": []
+  },
+  {
+    "summary": "An assertion is being made about the time of a rental return and rental date",
+    "keywords": [
+      "JavaScript",
+      "assertEquals",
+      "timestamp",
+      "secondRental"
+    ]
+  },
+  {
+    "summary": "The code chunk is a package of code with import statements and an empty class that has a method called MainController1 which returns the value 'home' when called",
+    "keywords": []
+  },
+  {
+    "summary": "The code includes two test cases for a controller class that includes methods 'account' and 'login'.",
+    "keywords": [
+      "test case",
+      "controller",
+      "methods"
+    ]
+  }
+]
